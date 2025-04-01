@@ -12,3 +12,4 @@ Order lines are more for AM Butter, so we can estimate that most of the customer
 
  As AM Curd has a high line fill rate, we can say AM Curd is supplied more in full quantity irrespective of delivery time (in time is not considered).
 VOFR% is almost similar to all 6 products.
+
